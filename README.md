@@ -1,2 +1,2 @@
-# Soma-Inteiros-
-https://github.com/KahAlves/Soma-Inteiros.git
+
+https://onlinegdb.com/kNOnGqm7O
